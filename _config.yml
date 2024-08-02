@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 2021126788a@gmail.com
   facebook:
-  github: pianfan
+  github: cherishtimeq
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Cherishtime
 
-url: https://pianfan.github.io
+url: https://cherishtimeq.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
